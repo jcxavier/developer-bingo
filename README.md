@@ -46,13 +46,13 @@ The original idea also featured a server counterpart, with the following functio
 
   - Fix nasty bugs (like app not closing and currently crashing on a Bingo event);  
   - Support both NFC and Bump™ technologies;
-  - Develop the server-side and make the application fully dynamic;
+  - Develop the server-side and make the application fully dynamic.
 
 
 -------------------------
 
 
-#### LICENSE
+##### LICENSE
 
 Copyright [2013] [João Xavier]
 
@@ -69,7 +69,7 @@ Copyright [2013] [João Xavier]
    limitations under the License.
 
 
-#### DISCLAIMER
+##### DISCLAIMER
 
 This is a very unstable version, doesn't cope well with orientation changes and might not work properly in some phones. It will get better over time.
 

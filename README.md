@@ -76,5 +76,5 @@ This is a very unstable version, doesn't cope well with orientation changes and 
 [Android]: http://developer.android.com
 [Bump™]: http://bu.mp/company/api
 [Google Play Services]: https://developers.google.com/+/mobile/android/
-[http://bu.mp/company/faq]: [http://bu.mp/company/faq]
+[http://bu.mp/company/faq]: http://bu.mp/company/faq
 [Google DevFest Portugal 2013]: http://gdgpt.blogspot.pt/p/blog-page.html
